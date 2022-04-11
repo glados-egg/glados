@@ -1,4 +1,4 @@
-# glados
+# GLaDOS
 GLaDOS easter egg.
 
 Include with...
@@ -8,3 +8,11 @@ Include with...
 ```
 
 ...before the ```</head>``` tag.
+
+Activate with Konami cheat code:
+
+↑ ↑ ↓ ↓ ← → ← → b a
+
+A terminal will appear:
+
+<img width="626" alt="image" src="https://user-images.githubusercontent.com/103392098/162673025-1ef28799-cd83-4afe-96c4-00b4bf345df6.png">
