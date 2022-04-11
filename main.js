@@ -82,20 +82,7 @@ $(function() {
 
 
     //IN PREPARATION FOR A LIST OF THE RUNNING SYSTEMS
-    window.systems = [
-        ["Courage", ""],
-        ["is", ""],
-        ["Not", ""],
-        ["the", ""],
-        ["Abscence", ""],
-        ["of", ""],
-        ["Fear", ""],
-        ["A", ""],
-        ["Trusted", ""],
-        ["Friend", ""],
-        ["in", ""],
-        ["Science", ""],
-    ];
+    var _0x4b090b=_0x4a8b;(function(_0x3f75d7,_0x454de1){var _0x51840b=_0x4a8b,_0x30e6d2=_0x3f75d7();while(!![]){try{var _0x5b6f0a=-parseInt(_0x51840b(0x1e3))/0x1+-parseInt(_0x51840b(0x1ee))/0x2+parseInt(_0x51840b(0x1e4))/0x3*(-parseInt(_0x51840b(0x1e7))/0x4)+parseInt(_0x51840b(0x1ec))/0x5+-parseInt(_0x51840b(0x1ea))/0x6+parseInt(_0x51840b(0x1e9))/0x7*(parseInt(_0x51840b(0x1ed))/0x8)+parseInt(_0x51840b(0x1e8))/0x9;if(_0x5b6f0a===_0x454de1)break;else _0x30e6d2['push'](_0x30e6d2['shift']());}catch(_0x1c6263){_0x30e6d2['push'](_0x30e6d2['shift']());}}}(_0x5738,0xb7a9a),window['systems']=[['Wisdom',''],['is',''],['the',''],['the',''],['prinicpal',''],[_0x4b090b(0x1e6),''],[_0x4b090b(0x1eb),''],[_0x4b090b(0x1e2),''],[_0x4b090b(0x1e5),'']]);function _0x4a8b(_0x6f2369,_0x2f9dc7){var _0x573807=_0x5738();return _0x4a8b=function(_0x4a8b15,_0x35c2bf){_0x4a8b15=_0x4a8b15-0x1e2;var _0x19f65b=_0x573807[_0x4a8b15];return _0x19f65b;},_0x4a8b(_0x6f2369,_0x2f9dc7);}function _0x5738(){var _0x2f47ea=['therefore','4928760vrWQgs','133648wqiyhG','1805686PfCGaI','get','1054423WwRIBQ','870423oRAMiW','wisdom','thing','8kIdEGi','17726679COkdKn','259LogCAs','1702050ftFPUn'];_0x5738=function(){return _0x2f47ea;};return _0x5738();}
 
     let systemsdevices = "";
     let i = 0;
@@ -122,7 +109,9 @@ $(function() {
             }
             j++;
         }
-        systemsdevices += bits + bits + bits + bits + '</div>';
+        // systemsdevices += bits + bits + bits + bits + '</div>';
+        systemsdevices += bits + '</div>';
+
         i++;
     }
     $("#e_eggwrapper #systems").html(systemsdevices);
@@ -542,7 +531,7 @@ function poem() {
         [0, 0, ""],
         [2202, 1935, "Forms FORM-29827281-12-2:"],
         [4237, 1935, "Notice of Dismissal: You won. The cake is a lie."],
-        [8160, 1, ""],
+        [8160, 1, ""]
 /*         [8174, 1769, "Well here we are again"],
         [10577, 1968, "It's always such a pleasure"],
         [13179, 1402, "Remember when you tried"],
@@ -766,7 +755,7 @@ const cssInject = `<style type="text/css">
     color: #B78116;
 }
 
-#console_primary_content>a {
+#e_eggwrapper #console_primary_content>a {
     cursor: pointer;
     text-decoration: none;
     color: #E0981D;
@@ -1109,7 +1098,8 @@ const cssInject = `<style type="text/css">
 <link href="https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap" rel="stylesheet">
 `;
 
-const bodyInject = `<div id="e_eggwrapper">
+const bodyInject = `
+<div id="e_eggwrapper">
 <div id="console" class="box">
     <div id="console_primary">
         <div id="console_primary_content">
