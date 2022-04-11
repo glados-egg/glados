@@ -11,7 +11,8 @@ Include with...
 
 Activate with Konami cheat code:
 
-↑ ↑ ↓ ↓ ← → ← → b a
+## ↑ ↑ ↓ ↓ ← → ← → b a
+
 
 A terminal will appear:
 
