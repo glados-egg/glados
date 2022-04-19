@@ -1,7 +1,7 @@
 # GLaDOS
 GLaDOS easter egg.
 
-Demo site: https://github.com/glados-egg/glados
+Demo site: https://glados-egg.github.io/glados
 
 Include with...
 ```
