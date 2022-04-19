@@ -22,6 +22,7 @@ A terminal will appear:
 
 A mini-game based on Portal's GLaDOS, with its own sub-mini-games, can be played and won. The winner gets 'cake'. This project is probably best described as a poor attempt at humor.
 
+
 <details>
   <summary>Spoilers:</summary>
   
@@ -40,11 +41,11 @@ Pacman game was never build, just like 'help game' says.
 
 The 'apply' program will never go past the 2nd step whether you're applying for the first time or resuming a previous application. That's because applicants are no longer accepted after 2009, just like 'credits' says. Its only purpose is to get you to trigger error messages, just like 'credits' says.
 
-While tinkering with GLaDOS, you might note the odd merror messages. If you produce enough errors, one or more error messages might suggest it actually DOES something. Almost like an error message could have value, just like 'credits' says.
+While tinkering with GLaDOS, you might notice interesting error messages. If you produce enough errors, one or more error messages might state it actually DOES something. Almost like an error message could have value, just like 'credits' says.
 
 That message leads to the ending where it actually tells you that you've won.
 
-If a slice of cake costs about five, maybe something worth the same amount can be accepted by the winner to exchange for the cash needed to acquire a rewarding slice of cake from their local purveyor of pastries? (Yes, I'm just giving the winner a digitl wallet and its key to take, which is loaded with about five in north-North America, which is the equivalent of you getting your precious cake. Anyone can see if claimed yet anonymously. You didn't think I would lie to you about the cake, did you?)
+If a slice of cake costs about five, maybe something worth the same amount can be accepted by the winner to exchange for a rewarding slice of cake from their local purveyor of pastries? (Yes, I'm just giving the winner a digitl wallet and its key to take, which is loaded with about five in north-North America, which is the equivalent of you getting your precious cake. Anyone can see if claimed yet, anonymously. You didn't think I would lie to you about the cake, did you? What did GLaDOS tell you?)
 
 
 ## "HOW SHOULD I HAVE KNOWN THIS WITHOUT CHEATING?"
@@ -58,7 +59,7 @@ The error messages eventually (randomly) suggest that you don't know what the er
 
 ## EVEN MORE SPOILER:
 
-Don't feel bad, this was intentionally made hard. Read the rest of the spoilers above. The date the 'credits' and 'help apply'refer to is jan 3 of 2009 which is the date that bitcoin became a thing. I can't give you a slice of cake through software, but could I give you enough bitcoin to buy a piece of cake? The cake image that displays when you win contains a btcoin wallt address. You ask a friend who knows what a computer bitcoin is, and they can help you claim that wallt. Those 34 vertical letters starting with a 1 (wallets always start with 1 or 3 and are 25 to 34 chars long) are the address of the coin wallt, and you can see that I depositd about five worth of those coins into that wallet when I made this game. The key to the wallet is obvious when you play the game and legit win it. Now that you have that 'key' and accepted your winnings, you can afford to buy yourself or a friend a nice piece of cake, eh?
+Don't feel bad, this was intentionally made hard. Read the rest of the spoilers above. The date the 'credits' and 'help apply' refer to is jan 3 of 2009 which is the date that bitcoin became a thing. I can't give you a slice of cake through software, but could I give you enough bitcoin to buy a piece of cake? The cake image that displays when you win displays a btcoin wallt address. You can ask a friend who knows how a computer bitcoin works, and they can help you claim that wallt. Those 34 vertical letters starting with a 1 (wallets always start with 1 or 3 and are 25 to 34 chars long) are the address of the coin wallt, and you can see that I depositd about five worth of those coins into that wallet when I made this game. The key to the wallet is obvious when you play the game and win it. Now that you have that 'key' and accepted your winnings, you can afford to buy yourself or a friend a nice piece of cake, eh?
 
 
 ## I JUST WANT TO SEE BEHIND THE MAGIC CURTAIN PLEASE:
