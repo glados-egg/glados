@@ -1,6 +1,8 @@
 # GLaDOS
 GLaDOS easter egg.
 
+Demo site: https://github.com/glados-egg/glados
+
 Include with...
 ```
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
