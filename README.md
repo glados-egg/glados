@@ -20,4 +20,4 @@ A terminal will appear:
 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/103392098/162673025-1ef28799-cd83-4afe-96c4-00b4bf345df6.png">
 
-A mini-game based on Portal's GLaDOS, with its own fun sub-mini-games, can be played and won. The winner gets 'cake'.
+A mini-game based on Portal's GLaDOS, with its own sub-mini-games, can be played and won. The winner gets 'cake'. This project is probably best described as a poor attempt at humor.
