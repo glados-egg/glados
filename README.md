@@ -3,9 +3,9 @@ GLaDOS easter egg.
 
 Demo site: https://glados-egg.github.io/glados
 
-### Activate with Konami cheat code:
+## Activate with Konami cheat code:
 
-## ↑ ↑ ↓ ↓ ← → ← → b a
+### ↑ ↑ ↓ ↓ ← → ← → b a
 
 
 A terminal will appear:
@@ -14,7 +14,7 @@ A terminal will appear:
 
 A mini-game based on Portal's GLaDOS, with its own sub-mini-games, can be played and won. The winner gets 'cake'. This project is probably best described as a poor attempt at humor.
 
-### Add this easter-egg to any webpage by adding...
+## Add this easter-egg to any webpage by adding...
 ```
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script src="https://glados-egg.github.io/glados/main.js"></script>
@@ -69,7 +69,7 @@ Type in 'help'. A list appears.
 
 One listed option suggests you type 'apply'. Type 'apply'.
 
-Type in anything. An error appears. Keep trying / failing until you see an error message suggesting that the numbers in an error code can also DO something. <em>"..Let's be honest. Neither one of us knows what those numbers do..."</em> There is a 1 in 4 chance of getting that error, and someone playing the game honestly is almost certain to come across that error.
+Type in anything. An error appears. Keep trying / failing until you see an error message suggesting that the numbers in an error code can also DO something. <em>"...Let's be honest. Neither one of us knows what those numbers do..."</em> There is a 1 in 4 chance of getting that error, and someone playing the game honestly is almost certain to come across that error.
 
 Type in the "valuable" error code that the programmers left behind, '4815162342'.
 
