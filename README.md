@@ -46,7 +46,7 @@ While tinkering with GLaDOS, you might notice some interesting error messages. I
 That message leads to the ending where it actually tells you that "you've won".
 
 
-## "HOW SHOULD I HAVE KNOWN THIS WITHOUT CHEATING?"
+## "HOW SHOULD I HAVE KNOWN THAT?"
 
 Just by playing the game as intended. The credits and certain error/help messages tell you that you're wasting your time when attempting the application process because it closed quite a few years ago on an interesting date in 2009. It also promises cake to the winner, but GLaDOS occasionally tells you this is a lie. When you win the game, you'll realize the lie was technically correct because software cannot give actual cake to a human, but it's still effectively true because GLaDOS can give a human something they can exchange to purchase actual cake. The 'apply' program is really just an error-message generating exercise to get you to notice something odd about some of the messages everytime you fail. Then again, they're all fairly odd now that GLaDOS is doing mere MS-DOS duties.
 
@@ -74,10 +74,10 @@ Type in anything. An error appears. Keep trying / failing until you see an error
 
 Type in the "valuable" error code that the programmers left behind, '4815162342'.
 
-You are told you've won. A cake eventually appears. The chars at the end of the cake image are a wallt address containing about five. Its key is shown directly below. I'm intending for you to import that amount into your own and then you'll have enough for buying an actual slice of cake for yourself because you're a winner!
+You are told you've won. A cake eventually appears. The chars at the end of the cake image are a wallt address containing about five. Its key is shown directly below. I'm intending for you to import that amount into your own or cash it and then you'll have enough for buying an actual slice of cake for yourself because you're a winner!
 
 
 
-## IF YOU CHEATED AND CLAIMED IT AND FEEL BAD, JUST DEPOSIT BACK AND LEAVE IT BE FOR A TRUE WINNER. NO JUDGEMENT. IT'S ALL ANONYMOUS ANYHOW.
+## IF YOU CHEATED AND CLAIMED IT AND FEEL BAD, JUST DEPOSIT THAT BACK INTO IT AND LEAVE IT BE FOR A TRUE WINNER. NO JUDGEMENT. IT'S ALL ANONYMOUS ANYHOW.
   
 </details>
