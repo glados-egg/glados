@@ -321,7 +321,7 @@ function global_thermonuclear_warfare() {
     cc();
     jQuery('<style type="text/css">.e_eggwrapperambiguous { display:none }</style>').appendTo(jQuery('head'));    
     lines = [
-        [036, 2035, "Oh wow, this is really happening. Ok then, this is definitely<span class='e_eggwrapperambiguous'> not</span> a simulation...<br>"],
+        [36, 2035, "Oh wow, this is really happening. Ok then, this is definitely<span class='e_eggwrapperambiguous'> not</span> a simulation...<br>"],
         [2037, 935, "Select a target:"],
         [3160, 1, ""],
         [3174, 700, "- USA"],
@@ -592,7 +592,7 @@ function readybeginegg() {
         "?": "help",
         "c": "clear",
         "4815162342": "poem",
-        "4 8 15 16 23 42": "poem",
+        "4": "poem", 
         "wait": "retaliate",
         "chess.exe": "chess",
         "dino.exe": "dinogame",
@@ -605,8 +605,8 @@ function readybeginegg() {
     
     window.consolerunning = false;
     window.userinput = "";
-    window.consolecontent = "GLaDOS v" + GLaDOSversion + " (c) 1981 Aperture Science, Inc.<br>\
-    ";
+    window.consolecontent = `GLaDOS v${GLaDOSversion} (c) 1981 Aperture Science, Inc.<br>\
+    `;
     window.consoleurl = "<br>Aperture@GLaDOS:~$ ";
     window.commandhistory = [""];
     window.currentcommand = 0;
